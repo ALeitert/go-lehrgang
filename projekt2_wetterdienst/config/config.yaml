@@ -1,0 +1,7 @@
+# Konfiguration für Wetterdienst
+
+apiPort: 8080
+cities:
+  - Berlin
+  - Hamburg
+  - München
