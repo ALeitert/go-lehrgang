@@ -1,0 +1,706 @@
+Berlin	3685265
+Hamburg	1862565
+München	1505005
+Köln	1024621
+Frankfurt am Main	756021
+Düsseldorf	618685
+Stuttgart	612663
+Leipzig	61185
+Dortmund	603462
+Bremen	586271
+Essen	574682
+Dresden	564904
+Nürnberg	529508
+Hannover	522131
+Duisburg	50227
+Bochum	358676
+Wuppertal	358193
+Bielefeld	331605
+Bonn	323336
+Mannheim	318035
+Karlsruhe	30905
+Münster	308258
+Augsburg	301105
+Wiesbaden	28885
+Gelsenkirchen	26793
+Mönchengladbach	267213
+Aachen	26267
+Braunschweig	252962
+Kiel	252668
+Chemnitz	245618
+Magdeburg	244329
+Freiburg im Breisgau	23746
+Krefeld	231406
+Halle (Saale)	226767
+Mainz	224684
+Erfurt	218793
+Lübeck	216889
+Oberhausen	213646
+Rostock	205307
+Kassel	19723
+Hagen	190384
+Potsdam	184754
+Saarbrücken	182971
+Hamm	179968
+Ludwigshafen am Rhein	177222
+Oldenburg	176614
+Mülheim an der Ruhr	17305
+Leverkusen	168581
+Darmstadt	167029
+Osnabrück	166057
+Solingen	165626
+Paderborn	156378
+Herne	155851
+Heidelberg	155756
+Neuss	154317
+Regensburg	151389
+Ingolstadt	141185
+Pforzheim	134912
+Würzburg	133258
+Offenbach am Main	132746
+Fürth	132036
+Heilbronn	131986
+Ulm	129882
+Wolfsburg	12956
+Göttingen	127259
+Reutlingen	118852
+Bremerhaven	11861
+Bottrop	118535
+Erlangen	115928
+Recklinghausen	115344
+Remscheid	113828
+Koblenz	113378
+Bergisch Gladbach	111361
+Jena	109725
+Salzgitter	10497
+Trier	104342
+Siegen	102685
+Moers	101503
+Gütersloh	100479
+Kaiserslautern	100426
+Hildesheim	9851
+Schwerin	98308
+Hanau	97956
+Flensburg	96326
+Esslingen am Neckar	96182
+Gera	95608
+Cottbus	95123
+Düren	94568
+Ludwigsburg	92858
+Tübingen	92322
+Iserlohn	91811
+Witten	91808
+Villingen-Schwenningen	89756
+Ratingen	89368
+Gießen	89179
+Zwickau	8741
+Konstanz	86919
+Marl	86766
+Worms	86753
+Lünen	86163
+Minden	84013
+Norderstedt	82844
+Velbert	82463
+Delmenhorst	81406
+Neumünster	79809
+Viersen	78373
+Rheine	77209
+Bamberg	7715
+Troisdorf	75901
+Wilhelmshaven	75745
+Gladbeck	75499
+Dessau-Roßlau	75402
+Dorsten	75277
+Arnsberg	74879
+Lüneburg	74785
+Detmold	74278
+Brandenburg an der Havel	74113
+Marburg	73544
+Castrop-Rauxel	73282
+Bocholt	73257
+Aschaffenburg	73091
+Bayreuth	7294
+Landshut	71863
+Lüdenscheid	71212
+Lippstadt	68739
+Kempten (Allgäu)	67645
+Aalen	67621
+Herford	67503
+Neuwied	67083
+Dinslaken	66993
+Celle	66834
+Kerpen	66585
+Grevenbroich	65983
+Weimar	65954
+Rüsselsheim am Main	65627
+Plauen	65599
+Fulda	65434
+Rosenheim	65274
+Schwäbisch Gmünd	64416
+Dormagen	63799
+Offenburg	62993
+Friedrichshafen	62796
+Neu-Ulm	62641
+Hürth	6216
+Bergheim	61611
+Sindelfingen	61422
+Herten	60941
+Wesel	60785
+Neubrandenburg	60344
+Euskirchen	60021
+Langenfeld (Rheinland)	59975
+Garbsen	59903
+Göppingen	58937
+Unna	58333
+Hameln	58244
+Stolberg (Rheinland)	57684
+Eschweiler	57534
+Waiblingen	57313
+Frankfurt (Oder)	57107
+Meerbusch	57078
+Nordhorn	56973
+Baden-Baden	56881
+Bad Homburg vor der Höhe	56688
+Sankt Augustin	56521
+Lingen (Ems)	56498
+Pulheim	5615
+Greifswald	56092
+Görlitz	55186
+Hilden	55157
+Wetzlar	54665
+Schweinfurt	54481
+Bad Kreuznach	54168
+Langenhagen	54142
+Stralsund	54094
+Bad Salzuflen	53958
+Hattingen	53044
+Passau	53039
+Kleve	53028
+Neustadt an der Weinstraße	52945
+Ahlen	52666
+Wolfenbüttel	52604
+Frechen	52309
+Menden (Sauerland)	52255
+Ibbenbüren	51803
+Böblingen	51483
+Lörrach	51349
+Elmshorn	51342
+Gummersbach	5129
+Peine	50987
+Lahr/Schwarzwald	50775
+Rastatt	50741
+Ravensburg	50628
+Bad Oeynhausen	5062
+Heidenheim an der Brenz	50618
+Gronau (Westf.)	50547
+Cuxhaven	49697
+Speyer	49564
+Leonberg	4948
+Willich	49413
+Emden	49202
+Bergkamen	49143
+Oranienburg	49122
+Straubing	49002
+Freising	48928
+Alsdorf	4881
+Erftstadt	48772
+Stade	48633
+Herzogenrath	48574
+Landau in der Pfalz	48209
+Bornheim	48203
+Hennef (Sieg)	48188
+Frankenthal (Pfalz)	4814
+Rheda-Wiedenbrück	4803
+Dülmen	47989
+Bruchsal	47784
+Soest	47776
+Singen (Hohentwiel)	47621
+Goslar	47419
+Neunkirchen	47344
+Dachau	47138
+Fellbach	4712
+Albstadt	4695
+Hof	46778
+Oberursel (Taunus)	46736
+Melle	46436
+Gotha	464
+Bünde	46365
+Filderstadt	46243
+Kaufbeuren	46193
+Weinheim	45852
+Schwerte	45821
+Falkensee	4572
+Rottenburg am Neckar	45677
+Brühl	45555
+Erkelenz	45315
+Rodgau	45277
+Lutherstadt Wittenberg	45249
+Pinneberg	44865
+Neustadt am Rübenberge	44668
+Bernau bei Berlin	44597
+Lehrte	44255
+Memmingen	44192
+Seevetal 	44158
+Erkrath	43706
+Monheim am Rhein	4363
+Bietigheim-Bissingen	43556
+Homburg	43382
+Wismar	43329
+Kaarst	43295
+Heinsberg	43163
+Borken	43035
+Gifhorn	42726
+Aurich	42612
+Schwäbisch Hall	42598
+Amberg	42553
+Siegburg	42445
+Weiden in der Oberpfalz	42444
+Kamen	42319
+Kirchheim unter Teck	42299
+Nettetal	41955
+Laatzen	41838
+Buchholz in der Nordheide	41737
+Dreieich	41692
+Schorndorf	41647
+Freiberg	41519
+Eberswalde	41481
+Wunstorf	41211
+Hückelhoven	41192
+Leinfelden-Echterdingen	41185
+Bensheim	41124
+Neumarkt in der Oberpfalz	41103
+Coburg	41064
+Völklingen	40952
+Germering	40916
+Buxtehude	40886
+Schwabach	40835
+Löhne	40826
+Nürtingen	40773
+Nordhausen	40767
+Eisenach	40747
+Ansbach	40742
+Königswinter	40574
+Ahaus	40176
+Würselen	40145
+Pirna	40128
+Lemgo	39905
+Ostfildern	39778
+Pirmasens	39761
+Kehl	39584
+Mettmann	39542
+Königs Wusterhausen	3936
+Freital	39281
+Hofheim am Taunus	39259
+Maintal	38987
+Ilmenau	38834
+Backnang	38818
+Langen	38785
+Ettlingen	38578
+Niederkassel	38485
+Coesfeld	38237
+Kamp-Lintfort	38217
+Greven	38212
+Haltern am See	38142
+Wesseling	38106
+Weißenfels	37929
+Neu-Isenburg	37926
+Halberstadt	37898
+Stendal	3785
+Warendorf	37703
+Saarlouis	37667
+Bautzen	37566
+Fürstenfeldbruck	3742
+Papenburg	37206
+Erding	37171
+Beckum	37133
+Tuttlingen	37109
+Sinsheim	37036
+Winsen (Luhe)	36961
+Meppen	3693
+Bitterfeld-Wolfen	36592
+Cloppenburg	36565
+Porta Westfalica	36521
+Mühlhausen/Thüringen	36353
+Emsdetten	36159
+Bad Vilbel	35961
+Limburg an der Lahn	35938
+Crailsheim	35755
+Voerde (Niederrhein)	35661
+Balingen	35623
+Dietzenbach	35561
+Datteln	35473
+St. Ingbert	35453
+Lage	35054
+Deggendorf	35044
+Ingelheim am Rhein	35016
+Hemer	35005
+Geldern	34962
+Wedel	34912
+Goch	34907
+Jülich	3489
+Steinfurt	3486
+Suhl	34685
+Rheinfelden (Baden)	34674
+Korschenbroich	346
+Biberach an der Riß	34576
+Ahrensburg	34534
+Viernheim	34426
+Merseburg	34392
+Wermelskirchen	34375
+Seelze	34364
+Herrenberg	34192
+Kempen	34105
+Leer	34025
+Kornwestheim	3398
+Barsinghausen	33941
+Stuhr	33913
+Vechta	33728
+Schwedt/Oder	33524
+Geesthacht	33519
+Zweibrücken	33323
+Forchheim	33017
+Radebeul	32979
+Bad Nauheim	32894
+Achim	3287
+Uelzen	32821
+Itzehoe	32725
+Nienburg/Weser	32608
+Lampertheim	324
+Weil am Rhein	32236
+Wernigerode	32167
+Delbrück	32166
+Fürstenwalde/Spree	32002
+Neuruppin	31962
+Naumburg (Saale)	3194
+Emmerich am Rhein	31829
+Radolfzell am Bodensee	31734
+Merzig	31697
+Mörfelden-Walldorf	31638
+Ganderkesee	31494
+Oer-Erkenschwick	31404
+Georgsmarienhütte	31244
+Rheinberg	31172
+Altenburg	31093
+Geestland	31093
+Burgdorf	31051
+Walsrode	31019
+Bernburg (Saale)	30992
+Lohmar	30992
+Weyhe 	30975
+Kreuztal	30905
+Bad Hersfeld	30846
+Hoyerswerda	30759
+Rendsburg	30633
+Schönebeck	30419
+Friedberg (Hessen)	30409
+Bretten	30274
+Werne	30202
+Idar-Oberstein	3017
+Taunusstein	30145
+Neuburg an der Donau	30135
+Oelde	30129
+Haan	30086
+Rietberg	30055
+Andernach	30039
+Gevelsberg	30006
+Friedberg	29953
+Schwandorf	29877
+Winnenden	29876
+Wedemark 	29803
+Einbeck	29751
+Osterholz-Scharmbeck	2971
+Bad Zwischenahn 	29698
+Meschede	29615
+Werl	296
+Gaggenau	29529
+Ludwigsfelde	29514
+Emmendingen	29502
+Ennepetal	29446
+Riesa	29373
+Griesheim	29309
+Landsberg am Lech	29257
+Tönisvorst	29251
+Baesweiler	29206
+Mühlheim am Main	29194
+Mechernich	29187
+Waltrop	29177
+Blankenfelde-Mahlow 	29129
+Saalfeld/Saale	29086
+Güstrow	28959
+Vaihingen an der Enz	28798
+Meißen	28753
+Rödermark	28753
+Rösrath	28709
+Springe	28669
+Arnstadt	28615
+Bühl	28608
+Geilenkirchen	28494
+Unterschleißheim	28482
+Hattersheim am Main	28467
+Wangen im Allgäu	28412
+Zeitz	28328
+Henstedt-Ulzburg	28325
+Garmisch-Partenkirchen	28305
+Kevelaer	28296
+Reinbek	28274
+Bramsche	2822
+Kelkheim (Taunus)	28175
+Höxter	28166
+Lohne (Oldenburg)	28089
+Wegberg	28089
+Leichlingen (Rheinland)	28078
+Bad Neuenahr-Ahrweiler	27961
+Schwelm	27953
+Baunatal	27929
+Königsbrunn	27879
+Heppenheim (Bergstraße)	27864
+Geislingen an der Steige	27791
+Ehingen (Donau)	27764
+Wiesloch	27731
+Strausberg	27719
+Teltow	27682
+Sundern (Sauerland)	27654
+Grimma	27529
+Northeim	27326
+Olching	2731
+Neukirchen-Vluyn	2714
+Verden (Aller)	27121
+Weinstadt	27074
+Werder (Havel)	27065
+Butzbach	27046
+Pfaffenhofen an der Ilm	26996
+Rheinbach	26918
+Leimen	26873
+Hamminkeln	26873
+Hohen Neuendorf	26857
+Lübbecke	26815
+Mühlacker	26787
+Achern	26733
+Hennigsdorf	26677
+Overath	26663
+Kulmbach	26625
+Weiterstadt	26583
+Unterhaching	26507
+Neckarsulm	26431
+Schloß Holte-Stukenbrock	26297
+Heiligenhaus	26252
+Zirndorf	26243
+Remseck am Neckar	26188
+Lauf an der Pegnitz	26106
+Wetter (Ruhr)	2609
+Geretsried	25997
+Selm	25969
+Delitzsch	25895
+Nordenham	25889
+Friedrichsdorf	25871
+Lindau (Bodensee)	25845
+Verl	25762
+Waldkraiburg	25737
+Idstein	25736
+Öhringen	25673
+Horb am Neckar	25651
+Aschersleben	25647
+Rinteln	25602
+Espelkamp	25576
+Harsewinkel	25523
+Roth	25458
+St. Wendel	25441
+Salzkotten	25429
+Brilon	25424
+Pfungstadt	25415
+Sangerhausen	25392
+Groß-Gerau	25388
+Bingen am Rhein	25384
+Schleswig	25352
+Petershagen	2534
+Markkleeberg	25331
+Obertshausen	25316
+Bedburg	25316
+Zittau	25286
+Syke	2527
+Lüdinghausen	25265
+Stutensee	25259
+Norden	25178
+Wiehl	25164
+Helmstedt	25099
+Rathenow	25087
+Bad Honnef	25061
+Waldshut-Tiengen	25019
+Meiningen	25002
+Calw	25001
+Ellwangen (Jagst)	25001
+Warstein	24988
+Rottweil	24985
+Vaterstetten 	24981
+Weingarten	2494
+Meckenheim	24925
+Rudolstadt	24852
+Bad Oldesloe	24846
+Schmallenberg	24711
+Varel	24704
+Eisenhüttenstadt	24703
+Olpe	24695
+Wandlitz	24503
+Starnberg	24471
+Freudenstadt	24464
+Mosbach	24459
+Plettenberg	24429
+Haren (Ems)	24365
+Übach-Palenberg	24277
+Lennestadt	24238
+Herzogenaurach	24237
+Sprockhövel	24232
+Leutkirch im Allgäu	24226
+Köthen (Anhalt)	2411
+Husum	2409
+Isernhagen 	24074
+Bad Mergentheim	24023
+Westerstede	23938
+Jüchen	23926
+Nagold	23864
+Döbeln	23819
+Ronnenberg	23814
+Alfter	23719
+Limbach-Oberfrohna	23673
+Senden	23641
+Attendorn	23554
+Neu Wulmstorf	2355
+Kaltenkirchen	23502
+Hann. Münden	23478
+Senftenberg	23466
+Sehnde	23431
+Gersthofen	23427
+Moormerland 	23365
+Gelnhausen	2329
+Weilheim in Oberbayern	23279
+Warburg	23252
+Bad Kissingen	23223
+Staßfurt	23181
+Metzingen	23178
+Riedstadt	23146
+Quedlinburg	23139
+Rotenburg (Wümme)	23117
+Bad Soden am Taunus	23103
+Vreden	23099
+Netphen	2308
+Dillenburg	22974
+Salzwedel	22964
+Kitzingen	22936
+Neusäß	22904
+Korbach	22901
+Rastede	22896
+Haar	22878
+Wertheim	22874
+Sonneberg	22843
+Laupheim	22839
+Ottobrunn	22829
+Apolda	22787
+Herdecke	22772
+Überlingen	22735
+Bad Rappenau	22703
+Friesoythe	22685
+Ditzingen	22666
+Eppingen	22666
+Stadthagen	22638
+Edewecht	22632
+Wallenhorst	22614
+Karben	226
+Burg	22585
+Bad Salzungen	22557
+Lengerich	22557
+Quickborn	22521
+Soltau	22511
+Lutherstadt Eisleben	22505
+Mühldorf am Inn	22503
+Waghäusel	22466
+Büdingen	22411
+Eschborn	22403
+Eislingen/Fils	22325
+Aichach	22015
+Heide	22002
+Rees	21913
+Gauting	2186
+Gardelegen	21822
+Donaueschingen	2179
+Zülpich	2178
+Schwetzingen	21767
+Bad Krozingen	21755
+Mössingen	21751
+Sonthofen	21734
+Germersheim	21715
+Hockenheim	21623
+Lindlar	21615
+Wipperfürth	21604
+Osterode am Harz	21598
+Büren	21593
+Radevormwald	21565
+Eckernförde	21563
+Dillingen/Saar	21529
+Versmold	21513
+Waldkirch	2151
+Ilsede	21469
+Glauchau	21442
+Stadtallendorf	21425
+Elsdorf	21424
+Günzburg	21423
+Zossen	21412
+Karlsfeld	21403
+Halle (Westf.)	21393
+Schifferstadt	21387
+Flörsheim am Main	21344
+Seligenstadt	21298
+Rheinstetten	21267
+Groß-Umstadt	21245
+Xanten	21179
+Wildeshausen	21155
+Panketal	21153
+Spremberg	2114
+Westoverledingen	21127
+Zerbst/Anhalt	21124
+Neufahrn bei Freising	21061
+Luckenwalde	2101
+Schortens	20995
+Stadtlohn	20946
+Geseke	2093
+Sondershausen	2091
+Traunstein	20877
+Puchheim	20858
+Senden	20844
+Bad Waldsee	20838
+Dingolfing	20749
+Wülfrath	20731
+Enger	20688
+Schramberg	2061
+Werdau	2052
+Tettnang	2052
+Bruchköbel	20509
+Fröndenberg/Ruhr	20504
+Lichtenfels	20488
+Coswig	20479
+Wachtberg	20471
+Herborn	20421
+Haßloch	20396
+Ochtrup	20394
+Burgwedel	20379
+Traunreut	20379
+Duderstadt	20375
+Nördlingen	20352
+Schopfheim	20332
+Steinhagen	20302
+Neunkirchen-Seelscheid	20283
+Waren (Müritz)	2026
+Nottuln	20205
+Blieskastel	20197
+Neustrelitz	20191
+Hörstel	20166
+Lilienthal	20166
+Borna	20131
+Nidderau	20119
+Müllheim im Markgräflerland	20097
+Telgte	20069
+Uetze	20064
+Wilnsdorf	20039
+Wittmund	20037
+Kürten	20033
+Meinerzhagen	20019
+Moosburg an der Isar	20012
