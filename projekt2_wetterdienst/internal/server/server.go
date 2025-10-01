@@ -22,7 +22,11 @@ func (Server) Name() string { return "API Server" }
 
 func (svr *Server) Init(ctx context.Context) error {
 	router := http.NewServeMux()
+
 	router.HandleFunc("GET /", get)
+	router.HandleFunc("GET /cities/{name}", getCitiesName)
+	router.HandleFunc("POST /cities/{name}", postCitiesName)
+	router.HandleFunc("GET /cities/{name}/stream", getCitiesNameStream)
 
 	svr.server = &http.Server{
 		Addr:    ":" + strconv.Itoa(int(config.C.APIPort)),

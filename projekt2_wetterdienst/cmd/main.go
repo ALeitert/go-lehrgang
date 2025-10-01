@@ -13,6 +13,7 @@ import (
 	"weather-service/internal/config"
 	"weather-service/internal/server"
 	"weather-service/internal/services"
+	"weather-service/internal/station"
 )
 
 func main() {
@@ -44,10 +45,16 @@ func run(ctx context.Context) error {
 	//
 	// Run services.
 
-	err = services.Run(ctx, []services.Service{
+	svcList := []services.Service{
 		// List services here.
 		&server.Server{},
-	})
+		&server.Streamer{},
+	}
+	for _, city := range config.C.Cities {
+		svcList = append(svcList, station.City(city))
+	}
+
+	err = services.Run(ctx, svcList)
 	if err != nil {
 		return eris.Wrap(err, "error while running services")
 	}

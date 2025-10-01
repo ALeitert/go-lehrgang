@@ -22,6 +22,8 @@ type Config struct {
 
 	// Port used for the API server.
 	APIPort uint16 `yaml:"apiPort"`
+
+	Cities []string `yaml:"cities"`
 }
 
 func (c *Config) Load(configPath string) error {
